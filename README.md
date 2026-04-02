@@ -15,4 +15,7 @@ This is documentation for my Homelab as a Cybersecurity Student at Old Dominion 
 3. Metasploitable 2
 4. Windows 10
 ##### Software:
-1. Wazuh - Open Source XDR and SIEM 1. Wazuh Agent on Kali Linux Desktop VM 2. Wazuh Agent on Windows 10 Virtual Machine 3. Wazuh Agent on Chromebook s330 Booting Velvet-Os
+1. Wazuh - Open Source XDR and SIEM 
+	- Wazuh Agent on Kali Linux Desktop VM 
+	- Wazuh Agent on Windows 10 Virtual Machine 
+	- Wazuh Agent on Chromebook s330 Booting Velvet-Os
