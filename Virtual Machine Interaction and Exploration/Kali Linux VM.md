@@ -1,4 +1,5 @@
-**README:** This Kali Linux VM was created using VMware Workstation Pro as a core tool for exploring different offensive security techniques within my HomeLab environment. The sections below document different activities I performed.
+**README:** 
+This Kali Linux VM was created using VMware Workstation Pro as a core tool for exploring different offensive security techniques within my HomeLab environment. The sections below document different activities I performed.
 
 ### Remote Accessing Metasploitable 2 VM
 
